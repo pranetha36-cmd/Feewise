@@ -1,0 +1,6 @@
+{
+  "name": "FeeWise",
+  "description": "Smart school fee planner and household budget assistant to plan 3-term school fees, track savings, and stay ahead of deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
